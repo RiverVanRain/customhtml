@@ -12,5 +12,11 @@
 
 $english = array(
 'customhtml' => "Custom Static Page",
+'about' => "About",
+'contacts' => "Contacts",
+'terms' => "Terms",
+'with:captcha' => "With Captcha",
+'captcha:entercaptcha' => 'Enter the text from the image',
+'captcha:captchafail' => 'Sorry, the text that you entered didn\'t match the text in the image.',
 );
 add_translation("en",$english);
